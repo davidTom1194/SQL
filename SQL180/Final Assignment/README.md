@@ -6,9 +6,12 @@ knowledge of the intended requirements.
 Check the README.md files within each directory for more information
 
 # File descriptions
-- Final assignment
-    - SQL Script
-    - Database Report
+- cit180_david_tom_hwFinal.sql
+    - Clean/working code to generate dummy database and to analyze information.
+- cit180_david_tom_hwFinal.docx
+    - Well written database report describing fictitious database.
+- cit180_david_tom_hwFinal.pdf
+    - Effective ERD with appropriate notation.
 
 ## Getting Started
 
