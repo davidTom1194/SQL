@@ -5,7 +5,8 @@ knowledge of the intended requirements.
 Check the README.md files within each directory for more information.
 
 # File descriptions
-- 
+- SQL180
+      - Coursework involving SQL fundamentals, culminating with creation of SQL database involving ERD's and a report for the given system.
 
 ## Getting Started
 
