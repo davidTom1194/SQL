@@ -8,6 +8,7 @@ Check the README.md files within each directory for more information
 - Final assignment
     - SQL Script
     - Database Report
+    - ERD
 
 ## Getting Started
 
